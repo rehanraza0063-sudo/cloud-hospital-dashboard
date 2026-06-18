@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Department,Doctor,Admission_Date,Discharge_Date,Diagnosis,Bill_Amount
+P001,Arjun Mehta,45,Male,Cardiology,Dr. Sharma,2026-05-01,2026-05-10,Hypertension,25000
+P002,Neha Singh,32,Female,Neurology,Dr. Iyer,2026-05-03,2026-05-08,Migraine,18000
+P003,Ravi Kumar,60,Male,Orthopedics,Dr. Patel,2026-05-05,2026-05-20,Fracture,40000
+P004,Meera Joshi,27,Female,Gynecology,Dr. Desai,2026-05-07,2026-05-12,PCOS,22000
+P005,Sameer Khan,50,Male,Oncology,Dr. Banerjee,2026-05-09,2026-05-25,Lung Cancer,75000
+P006,Anita Rao,38,Female,Pediatrics,Dr. Kulkarni,2026-05-11,2026-05-15,Asthma,15000
+P007,Vikram Shah,29,Male,Dermatology,Dr. Gupta,2026-05-13,2026-05-14,Allergy,8000
+P008,Sunita Verma,55,Female,Cardiology,Dr. Sharma,2026-05-15,2026-05-22,Diabetes,30000
+P009,Karan Malhotra,41,Male,Neurology,Dr. Iyer,2026-05-18,2026-05-23,Epilepsy,27000
+P010,Pooja Nair,36,Female,Orthopedics,Dr. Patel,2026-05-20,2026-05-28,Arthritis,35000
